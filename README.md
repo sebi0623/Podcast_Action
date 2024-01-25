@@ -1,3 +1,6 @@
+build an action to automatize the updating of the xml file when editing the yaml file
+./|\ Run the python code to edit the xml file, after editing the YAML file
+
 # The Future in Tech
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
