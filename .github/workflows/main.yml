@@ -7,6 +7,6 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: sebi0623/Podcast-Generator@main
+        uses: sebi0623/Podcast-Generator/action.yaml@main
         
 
